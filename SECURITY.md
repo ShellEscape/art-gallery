@@ -11,9 +11,9 @@ We only support and patch the current active version.
 ---
 
 ##. How to Report a Bug
-Found a security flaw? Please help us fix it safely. By emailing helloabchen@gmail.com or datguyp18@gmail.com
+Found a security flaw? Please help us fix it safely by viewing the options below.
 
-* **Where to report:** Email us privately at emailing helloabchen@gmail.com or datguyp18@gmail.com.
+* **Where to report:** Email us privately by emailing security@galleryclub.online
 
 * DO NOT open public GitHub issues for security findings
 
